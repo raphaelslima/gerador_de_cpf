@@ -3,7 +3,7 @@ Esse projeto utiliza JavaScript e Webpack  para criar um gerador de CPF.
 
 ## Minha aplicação:
 
-<img src="./assets/screenshots/gerador_de_cpf.PNG"/>
+<img src="./public/assets/screenshots/gerador_de_cpf.PNG"/>
 
 ## Sobre a aplicação:
 
